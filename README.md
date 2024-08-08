@@ -50,7 +50,7 @@ Si estás buscando aprender más sobre HTML y CSS, te recomendamos los siguiente
 
 - [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [MDN Web Docs - CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [The Odin Project - CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- [The Odin Project - CSS Foundations](https://www.theodinproject.com)
 
 ## 🤝 Contribuciones
 
